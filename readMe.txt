@@ -1,5 +1,5 @@
 This folder contains an html that links to the interactive sankey diagram, 
-just open it in a browser to check it out.
+just download the sankey.html and open it in a browser to check it out.
 
 
 If you would like to venture into the code and possibly run it here are some notes:
